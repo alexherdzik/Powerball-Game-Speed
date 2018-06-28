@@ -2,6 +2,6 @@ pKOKZR
 ------
 
 
-A [Pen](https://codepen.io/alexherdzik-the-animator/pen/pKOKZR) by [alexherdzik](https://codepen.io/alexherdzik-the-animator) on [CodePen](https://codepen.io).
+A [Pen](https://codepen.io/alexherdzik/pen/pKOKZR) by [alexherdzik](https://codepen.io/alexherdzik) on [CodePen](https://codepen.io).
 
-[License](https://codepen.io/alexherdzik-the-animator/pen/pKOKZR/license).
+[License](https://codepen.io/alexherdzik/pen/pKOKZR/license).
